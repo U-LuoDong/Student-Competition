@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>修改学生信息</title>
+		<script type="text/javascript" src="/StudentInformationManagementSystem/jquery/jquery-3.3.1.js"></script>
+		<link rel="stylesheet" href="/StudentInformationManagementSystem/css/modify.css" /><!--引入自己的CSS样式-->
+	</head>
+	<body>
+		<div id="Layer"></div><!--遮罩层-->
+		<div id="login">
+			<span id="login_span">neu信息管理系统</span>
+			<br />
+			<h3>修改学生信息</h3>
+			<div class="login_2">
+				<form onsubmit="return check()" action="" method="post">
+					<p id="num" style="display:none ;">{$num}</p>
+					<p id="grade" style="display:none ;">{$grade}</p>
+					<p id="className" style="display:none ;">{$className}</p>
+					<p id="sid" style="display:none ;">{$sid}</p>
+					<p id="sname" style="display:none ;">{$sname}</p>
+					<p id="sex" style="display:none ;">{$sex}</p>
+					<p id="level" style="display:none ;">{$level}</p>
+					<div>
+						<label>序号</label>
+						<label><input type="text" id="txt_1" placeholder="请输入学生的序号" onblur="checkNum()" name="Num" class="txt"><span id="txt_1info" class="txt"></span></label>
+						<label>年级</label>
+						<label><input type="text" id="txt_2" placeholder="请输入学生所处的年级" onblur="checkGrade()" name="Gr" class="txt"><span id="txt_2info"></span></label>
+					</div>
+					<div style="margin-top: 10px;">
+						<label>班级</label>
+						<label><input type="text" id="txt_3" placeholder="请输入学生的班级" onblur="checkClass()" name="Cl" class="txt"><span id="txt_3info"></span></label>
+						<label>学号</label>
+						<label><input type="text" id="txt_4" placeholder="请输入学生的学号" onblur="checkSid()" name="Sid" class="txt"><span id="txt_4info"></span></label>
+					</div>
+
+					<div style="margin-top: 10px;">
+						<label>姓名</label>
+						<label><input type="text" id="txt_5" placeholder="请输入学生的姓名" onblur="checkSname()" name="Name" class="txt"><span id="txt_5info"></span></label>
+						<label>性别</label>
+						<label><input type="text" id="txt_6" placeholder="请输入学生所处的性别" onblur="checkSex()" name="Sex" class="txt"><span id="txt_6info"></span></label>
+					</div>
+
+					<div style="margin-top: 10px;">
+						<label>层次</label>
+						<label><input type="text" id="txt_7" placeholder="请输入学生的培养层次" onblur="checkLevel()" name="Level" class="txt"><span id="txt_7info"></span></label>
+					</div>
+					<input style="margin-top: 10px; margin-left: 200px;" type="submit" class="but" value="确认" />
+				</form>
+			</div>
+			<div class="login_3" >
+				<ul>
+					<li>
+						<a href="http://www.tp5.com/studentinformationmanagementsystem/student/index.html">跳转到首页</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</body>
+	<script type="text/javascript" src="/StudentInformationManagementSystem/js/modify.js"></script><!--引入自己的JS-->
+</html>

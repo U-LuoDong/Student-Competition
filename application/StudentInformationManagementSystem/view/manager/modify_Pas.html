@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>修改管理员密码</title>
+		<link rel="stylesheet" href="/StudentInformationManagementSystem/css/Modify_Pas.css" />
+		<!--引入自己的CSS样式-->
+		<script src="/StudentInformationManagementSystem/jquery/jquery-3.3.1.js"></script>
+	</head>
+	<body>
+		<div id="Layer"></div><!--遮罩层-->
+		<div id="login">
+			<span id="login_span">neu信息管理系统</span>
+			<h3>修改密码</h3>
+			<div class="login_2">
+				<form onsubmit="return check()" action="" method="post">
+					<p id="phone" style="display:none ;">{$name}</p>
+					<p>账号</p>
+					<P><input type="text" id="txt_1" class="txt" placeholder="请输入您的手机号码" onblur="checkemail()" name="tel"><span id="txt_1info"></span></P>
+					<p>旧密码</p>
+					<P><input type="password" id="txt_4" class="txt" placeholder="请输入您的旧密码" onblur="checkpassword3()" name="OldPas"><span id="txt_4info"></span></P>
+					<p>新密码</p>
+					<P><input type="password" id="txt_2" class="txt" placeholder="请输入您的新密码" onblur="checkpassword1()" name="NewPas"><span id="txt_2info"></span></P>
+					<p>确认新密码</p>
+					<P><input type="password" id="txt_3" class="txt" placeholder="请再次输入您的新密码" onblur="checkpassword2()"><span id="txt_3info"></span></P>
+					<input type="submit" class="but" value="确认" />
+				</form>
+			</div>
+			<div class="login_3">
+				<ul>
+					<li>
+						<a href="http://www.tp5.com/studentinformationmanagementsystem/index/index.html">跳转到首页</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</body>
+	<script type="text/javascript" src="/StudentInformationManagementSystem/js/Modify_Pas.js"></script>
+	<!--引入自己的JS-->
+
+</html>
