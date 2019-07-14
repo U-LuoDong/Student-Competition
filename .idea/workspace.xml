@@ -3,492 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7fd2c782-220a-47ea-8b01-35dc262ed3ec" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/SingleInstance/controller/Index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/SingleInstance/database.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/SingleInstance/model/Department.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/StudentInformationManagementSystem/controller/Index.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/StudentInformationManagementSystem/controller/Index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/StudentInformationManagementSystem/controller/Manager.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/StudentInformationManagementSystem/controller/Manager.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/StudentInformationManagementSystem/view/index/sign.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/StudentInformationManagementSystem/view/index/sign.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/UtilityItem/config.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/UtilityItem/controller/Abnormal.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/UtilityItem/controller/Debug.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/UtilityItem/controller/FileUpload.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/UtilityItem/controller/Imageprocessing.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/UtilityItem/controller/Language.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/UtilityItem/controller/Redirect.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/UtilityItem/controller/Ueditor.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/UtilityItem/lang/en-us.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/UtilityItem/lang/zh-cn.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/UtilityItem/view/Language/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/UtilityItem/view/Ueditor/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/UtilityItem/view/file_upload/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/config.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/controller/Admin.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/controller/Auth.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/controller/AuthGroup.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/controller/AuthRule.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/controller/Common.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/controller/CorrelationModel.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/controller/Denfence.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/controller/Find.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/controller/Game.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/controller/Index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/controller/Info.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/controller/Login.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/controller/Num.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/model/Admin.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/model/AuthGroup.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/model/AuthRule.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/model/Student.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/validate/Admin.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/view/admin/add.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/view/admin/edit.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/view/admin/lst.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/view/auth_group/add.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/view/auth_group/edit.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/view/auth_group/lst.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/view/auth_rule/add.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/view/auth_rule/edit.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/view/auth_rule/lst.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/view/find/cla.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/view/find/spe.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/view/game/lucky_dog.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/view/game/retro_snaker.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/view/index/index.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/view/index/test.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/view/info/add.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/view/info/edit.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/view/info/find.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/view/info/lst.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/view/info/shanchu.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/view/login/index.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/view/login/indexcopy.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/view/num/index.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/view/public/left.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin-local/view/public/top.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/config.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/controller/Admin.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/controller/Auth.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/controller/AuthGroup.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/controller/AuthRule.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/controller/Common.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/controller/CorrelationModel.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/controller/Denfence.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/controller/Find.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/controller/Game.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/controller/Index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/controller/Info.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/controller/Login.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/controller/Num.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/database.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/model/Admin.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/model/AuthGroup.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/model/AuthRule.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/model/Student.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/validate/Admin.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/view/admin/add.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/view/admin/edit.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/view/admin/lst.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/view/auth_group/add.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/view/auth_group/edit.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/view/auth_group/lst.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/view/auth_rule/add.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/view/auth_rule/edit.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/view/auth_rule/lst.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/view/find/cla.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/view/find/spe.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/view/game/lucky_dog.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/view/game/retro_snaker.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/view/index/index.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/view/index/test.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/view/info/add.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/view/info/edit.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/view/info/find.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/view/info/lst.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/view/info/shanchu.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/view/login/index-copy.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/view/login/index.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/view/login/indexcopy.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/view/num/index.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/view/public/left.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/view/public/top.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/config.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/controller/Admin.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/controller/Auth.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/controller/AuthGroup.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/controller/AuthRule.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/controller/Common.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/controller/CorrelationModel.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/controller/Denfence.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/controller/Find.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/controller/Index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/controller/Info.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/controller/Login.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/controller/Num.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/model/Admin.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/model/AuthGroup.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/model/AuthRule.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/model/Student.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/validate/Admin.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/view/admin/add.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/view/admin/edit.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/view/admin/lst.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/view/auth_group/add.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/view/auth_group/edit.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/view/auth_group/lst.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/view/auth_rule/add.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/view/auth_rule/edit.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/view/auth_rule/lst.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/view/find/cla.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/view/find/spe.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/view/index/index.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/view/index/test.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/view/info/add.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/view/info/edit.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/view/info/find.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/view/info/lst.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/view/info/shanchu.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/view/info/test.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/view/login/index.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/view/num/index.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/view/public/left.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admincopy/view/public/top.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/base/Subscribe.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/extra/queue.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/index/controller/Index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/index/controller/Score.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/index/controller/User.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/index/model/Score.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/index/model/User.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/index/view/base.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/index/view/index/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/index/view/index/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/index/view/index/lista.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/index/view/index/score.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/index/view/layout.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/index/view/score/add.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/index/view/score/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/index/view/score/lista.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/index/view/score/modify.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/index/view/score/text.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/index/view/user/lists.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/orm/controller/CorrelationModel.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/orm/database.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/orm/model/Course.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/orm/model/Department.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/orm/model/Schedule.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/orm/model/Teacher.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/redislesson2/controller/Index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/redislesson2/view/index/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/redisxinlang/controller/Index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/redisxinlang/controller/Pub.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/redisxinlang/controller/Score.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/redisxinlang/controller/Sub.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/redisxinlang/controller/Test.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/redisxinlang/controller/User.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/redisxinlang/view/index/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/redisxinlang/view/index/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/redisxinlang/view/index/lista.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/redisxinlang/view/index/score.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/redisxinlang/view/score/add.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/redisxinlang/view/score/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/redisxinlang/view/score/lista.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/redisxinlang/view/score/modify.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/redisxinlang/view/score/text.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/redisxinlang/view/user/lists.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/rpc/controller/Request.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/rpc/controller/Server.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/websocket/controller/Chat.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/websocket/controller/Index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/websocket/controller/Test.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/websocket/view/chat/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/websocket/view/test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/StudentInformationManagementSystem/js/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/js/sign.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/StudentInformationManagementSystem/js/sign.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon1.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/iu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/iu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/iu_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/nsu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/static/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/anchor/anchor.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/attachment/attachment.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/attachment/attachment.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/attachment/attachment.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/attachment/fileTypeImages/icon_chm.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/attachment/fileTypeImages/icon_default.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/attachment/fileTypeImages/icon_doc.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/attachment/fileTypeImages/icon_exe.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/attachment/fileTypeImages/icon_jpg.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/attachment/fileTypeImages/icon_mp3.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/attachment/fileTypeImages/icon_mv.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/attachment/fileTypeImages/icon_pdf.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/attachment/fileTypeImages/icon_ppt.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/attachment/fileTypeImages/icon_rar.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/attachment/fileTypeImages/icon_txt.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/attachment/fileTypeImages/icon_xls.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/attachment/images/alignicon.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/attachment/images/alignicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/attachment/images/bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/attachment/images/file-icons.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/attachment/images/file-icons.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/attachment/images/icons.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/attachment/images/icons.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/attachment/images/image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/attachment/images/progress.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/attachment/images/success.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/attachment/images/success.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/background/background.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/background/background.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/background/background.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/background/images/bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/background/images/success.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/charts/chart.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/charts/charts.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/charts/charts.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/charts/charts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/charts/images/charts0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/charts/images/charts1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/charts/images/charts2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/charts/images/charts3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/charts/images/charts4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/charts/images/charts5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/emotion/emotion.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/emotion/emotion.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/emotion/emotion.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/emotion/images/0.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/emotion/images/bface.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/emotion/images/cface.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/emotion/images/fface.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/emotion/images/jxface2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/emotion/images/neweditor-tab-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/emotion/images/tface.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/emotion/images/wface.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/emotion/images/yface.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/gmap/gmap.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/help/help.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/help/help.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/help/help.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/image/image.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/image/image.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/image/image.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/image/images/alignicon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/image/images/bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/image/images/icons.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/image/images/icons.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/image/images/image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/image/images/progress.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/image/images/success.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/image/images/success.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/insertframe/insertframe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/internal.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/link/link.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/map/map.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/map/show.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/music/music.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/music/music.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/music/music.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/preview/preview.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/scrawl/images/addimg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/scrawl/images/brush.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/scrawl/images/delimg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/scrawl/images/delimgH.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/scrawl/images/empty.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/scrawl/images/emptyH.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/scrawl/images/eraser.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/scrawl/images/redo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/scrawl/images/redoH.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/scrawl/images/scale.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/scrawl/images/scaleH.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/scrawl/images/size.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/scrawl/images/undo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/scrawl/images/undoH.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/scrawl/scrawl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/scrawl/scrawl.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/scrawl/scrawl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/searchreplace/searchreplace.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/searchreplace/searchreplace.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/snapscreen/snapscreen.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/spechars/spechars.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/spechars/spechars.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/table/dragicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/table/edittable.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/table/edittable.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/table/edittable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/table/edittd.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/table/edittip.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/template/config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/template/images/bg.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/template/images/pre0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/template/images/pre1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/template/images/pre2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/template/images/pre3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/template/images/pre4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/template/template.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/template/template.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/template/template.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/video/images/bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/video/images/center_focus.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/video/images/file-icons.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/video/images/file-icons.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/video/images/icons.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/video/images/icons.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/video/images/image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/video/images/left_focus.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/video/images/none_focus.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/video/images/progress.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/video/images/right_focus.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/video/images/success.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/video/images/success.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/video/video.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/video/video.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/video/video.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/webapp/webapp.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/wordimage/fClipboard_ueditor.swf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/wordimage/imageUploader.swf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/wordimage/tangram.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/wordimage/wordimage.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/dialogs/wordimage/wordimage.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/lang/en/en.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/lang/en/images/addimage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/lang/en/images/alldeletebtnhoverskin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/lang/en/images/alldeletebtnupskin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/lang/en/images/background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/lang/en/images/button.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/lang/en/images/copy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/lang/en/images/deletedisable.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/lang/en/images/deleteenable.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/lang/en/images/listbackground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/lang/en/images/localimage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/lang/en/images/music.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/lang/en/images/rotateleftdisable.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/lang/en/images/rotateleftenable.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/lang/en/images/rotaterightdisable.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/lang/en/images/rotaterightenable.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/lang/en/images/upload.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/lang/zh-cn/images/copy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/lang/zh-cn/images/localimage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/lang/zh-cn/images/music.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/lang/zh-cn/images/upload.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/lang/zh-cn/zh-cn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/php/Uploader.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/php/action_crawler.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/php/action_list.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/php/action_upload.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/php/config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/php/controller.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/css/ueditor.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/css/ueditor.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/dialogbase.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/anchor.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/arrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/arrow_down.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/arrow_up.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/button-bg.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/cancelbutton.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/charts.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/cursor_h.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/cursor_h.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/cursor_v.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/cursor_v.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/dialog-title-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/filescan.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/highlighted.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/icons-all.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/icons.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/icons.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/loaderror.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/lock.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/neweditor-tab-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/pagebreak.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/scale.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/sortable.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/spacer.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/sparator_v.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/table-cell-align.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/tangram-colorpicker.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/toolbar_bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/unhighlighted.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/upload.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/videologo.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/word.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/default/images/wordpaste.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/themes/iframe.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/SyntaxHighlighter/shCore.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/SyntaxHighlighter/shCoreDefault.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/codemirror/codemirror.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/codemirror/codemirror.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/highcharts/adapters/mootools-adapter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/highcharts/adapters/mootools-adapter.src.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/highcharts/adapters/prototype-adapter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/highcharts/adapters/prototype-adapter.src.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/highcharts/adapters/standalone-framework.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/highcharts/adapters/standalone-framework.src.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/highcharts/highcharts-more.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/highcharts/highcharts-more.src.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/highcharts/highcharts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/highcharts/highcharts.src.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/highcharts/modules/annotations.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/highcharts/modules/annotations.src.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/highcharts/modules/canvas-tools.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/highcharts/modules/canvas-tools.src.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/highcharts/modules/data.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/highcharts/modules/data.src.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/highcharts/modules/drilldown.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/highcharts/modules/drilldown.src.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/highcharts/modules/exporting.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/highcharts/modules/exporting.src.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/highcharts/modules/funnel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/highcharts/modules/funnel.src.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/highcharts/modules/heatmap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/highcharts/modules/heatmap.src.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/highcharts/modules/map.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/highcharts/modules/map.src.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/highcharts/modules/no-data-to-display.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/highcharts/modules/no-data-to-display.src.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/highcharts/themes/dark-blue.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/highcharts/themes/dark-green.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/highcharts/themes/gray.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/highcharts/themes/grid.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/highcharts/themes/skies.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/jquery-1.10.2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/jquery-1.10.2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/jquery-1.10.2.min.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/snapscreen/UEditorSnapscreen.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/video-js/font/vjs.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/video-js/font/vjs.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/video-js/font/vjs.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/video-js/font/vjs.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/video-js/video-js.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/video-js/video-js.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/video-js/video-js.swf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/video-js/video.dev.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/video-js/video.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/webuploader/Uploader.swf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/webuploader/webuploader.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/webuploader/webuploader.custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/webuploader/webuploader.custom.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/webuploader/webuploader.flashonly.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/webuploader/webuploader.flashonly.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/webuploader/webuploader.html5only.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/webuploader/webuploader.html5only.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/webuploader/webuploader.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/webuploader/webuploader.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/webuploader/webuploader.withoutimage.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/webuploader/webuploader.withoutimage.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/zeroclipboard/ZeroClipboard.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/zeroclipboard/ZeroClipboard.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/third-party/zeroclipboard/ZeroClipboard.swf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/ueditor.all.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/ueditor.all.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/ueditor.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/ueditor.parse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ueditor/ueditor.parse.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/20190120/b7887b5461175c37e933a4e7d0c3f95d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/20190120/bd716fa7344fd9b18eca0bfbd3fcd910.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -519,27 +33,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/StudentInformationManagementSystem/controller/Index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="22" column="73" selection-start-line="22" selection-start-column="73" selection-end-line="22" selection-end-column="73" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/StudentInformationManagementSystem/js/search.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="687">
-              <caret line="174" column="9" selection-start-line="174" selection-start-column="9" selection-end-line="174" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/StudentInformationManagementSystem/js/add.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-61">
+            <state>
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -550,20 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/StudentInformationManagementSystem/js/delete.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/StudentInformationManagementSystem/js/sign.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="76" column="14" lean-forward="true" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
+            <state relative-caret-position="380">
+              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -572,10 +56,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/StudentInformationManagementSystem/js/useCode.js">
+        <entry file="file://$PROJECT_DIR$/public/StudentInformationManagementSystem/js/sign.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="166" column="25" lean-forward="true" selection-start-line="166" selection-start-column="25" selection-end-line="166" selection-end-column="25" />
+            <state relative-caret-position="149">
+              <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="79" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -584,9 +68,42 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/StudentInformationManagementSystem/js/useCode.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6308">
+              <caret line="166" column="25" selection-start-line="166" selection-start-column="25" selection-end-line="166" selection-end-column="25" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/StudentInformationManagementSystem/view/index/sign.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+              <folding>
+                <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/StudentInformationManagementSystem/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/StudentInformationManagementSystem/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5080">
+            <state relative-caret-position="4674">
               <caret line="123" column="13" selection-start-line="123" selection-start-column="9" selection-end-line="123" selection-end-column="13" />
             </state>
           </provider>
@@ -594,15 +111,13 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/StudentInformationManagementSystem/js/modify.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-61" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/StudentInformationManagementSystem/js/Modify_Pas.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-61">
+            <state>
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -613,7 +128,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/StudentInformationManagementSystem/js/register.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-61">
+            <state>
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -703,7 +218,7 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="953" />
+    <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -717,34 +232,41 @@
         <subPane>
           <expand>
             <path>
-              <item name="tp5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tp5" type="462c0819:PsiDirectoryNode" />
+              <item name="Student-Competition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Competition" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="tp5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tp5" type="462c0819:PsiDirectoryNode" />
+              <item name="Student-Competition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Competition" type="462c0819:PsiDirectoryNode" />
               <item name="application" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="tp5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tp5" type="462c0819:PsiDirectoryNode" />
+              <item name="Student-Competition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Competition" type="462c0819:PsiDirectoryNode" />
               <item name="application" type="462c0819:PsiDirectoryNode" />
               <item name="StudentInformationManagementSystem" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="tp5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tp5" type="462c0819:PsiDirectoryNode" />
+              <item name="Student-Competition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Competition" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="StudentInformationManagementSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Student-Competition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Competition" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="tp5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tp5" type="462c0819:PsiDirectoryNode" />
+              <item name="Student-Competition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Competition" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
               <item name="StudentInformationManagementSystem" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="tp5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tp5" type="462c0819:PsiDirectoryNode" />
+              <item name="Student-Competition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-Competition" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
               <item name="StudentInformationManagementSystem" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
@@ -766,7 +288,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/application/StudentInformationManagementSystem/view/index" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -842,11 +364,13 @@
       <workItem from="1562755025578" duration="1417000" />
       <workItem from="1563015384606" duration="1986000" />
       <workItem from="1563100728903" duration="4365000" />
+      <workItem from="1563108401103" duration="680000" />
+      <workItem from="1563110456578" duration="700000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108696000" />
+    <option name="totallyTimeSpent" value="110076000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -858,10 +382,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11626667" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16426666" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -911,9 +435,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/uploads/20190120/b7887b5461175c37e933a4e7d0c3f95d.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -933,19 +454,9 @@
     <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/static/chat/img/talk_recordtextme.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/static/chat/img/talk_recordtext.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/websocket/controller/Test.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/public/static/chat/img/talk_recordtextme.png" />
+    <entry file="file://$PROJECT_DIR$/public/static/chat/img/talk_recordtext.png" />
+    <entry file="file://$PROJECT_DIR$/application/websocket/controller/Test.php" />
     <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -953,20 +464,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/static/chat/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3010">
-          <caret line="239" column="13" lean-forward="true" selection-start-line="239" selection-start-column="13" selection-end-line="239" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/static/chat/js/dataType.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/public/static/chat/css/index.css" />
+    <entry file="file://$PROJECT_DIR$/public/static/chat/js/dataType.js" />
     <entry file="file://$PROJECT_DIR$/public/server.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
@@ -977,13 +476,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/websocket/view/chat/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-241">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/application/websocket/view/chat/index.html" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -994,23 +487,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/websocket/controller/Index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/admin/controller/Common.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
-          <folding>
-            <element signature="e#38#59#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/application/websocket/controller/Index.php" />
+    <entry file="file://$PROJECT_DIR$/application/admin/controller/Common.php" />
     <entry file="file://$PROJECT_DIR$/application/command.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -1032,57 +510,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/admin/controller/Admin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
-          <folding>
-            <element signature="e#38#78#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/admin/controller/Find.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/admin/controller/Num.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/admin/controller/Info.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/admin/controller/Index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/admin/controller/Login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-          <folding>
-            <element signature="e#38#59#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/admin/view/public/top.htm">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/application/admin/controller/Admin.php" />
+    <entry file="file://$PROJECT_DIR$/application/admin/controller/Find.php" />
+    <entry file="file://$PROJECT_DIR$/application/admin/controller/Num.php" />
+    <entry file="file://$PROJECT_DIR$/application/admin/controller/Info.php" />
+    <entry file="file://$PROJECT_DIR$/application/admin/controller/Index.php" />
+    <entry file="file://$PROJECT_DIR$/application/admin/controller/Login.php" />
+    <entry file="file://$PROJECT_DIR$/application/admin/view/public/top.htm" />
     <entry file="file://$PROJECT_DIR$/thinkphp/lang/zh-cn.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
@@ -1090,48 +524,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/admin/view/info/add.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4560">
-          <caret line="120" column="38" selection-start-line="120" selection-start-column="38" selection-end-line="120" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/admin/view/info/lst.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4218">
-          <caret line="111" selection-start-line="111" selection-end-line="111" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/UtilityItem/controller/FileUpload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/admin/view/public/left.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1558">
-          <caret line="41" column="55" selection-start-line="41" selection-start-column="55" selection-end-line="41" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/websocket/controller/Chat.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/static/chat/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3610">
-          <caret line="95" column="19" selection-start-line="95" selection-start-column="19" selection-end-line="95" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/application/admin/view/info/add.htm" />
+    <entry file="file://$PROJECT_DIR$/application/admin/view/info/lst.htm" />
+    <entry file="file://$PROJECT_DIR$/application/UtilityItem/controller/FileUpload.php" />
+    <entry file="file://$PROJECT_DIR$/application/admin/view/public/left.htm" />
+    <entry file="file://$PROJECT_DIR$/application/websocket/controller/Chat.php" />
+    <entry file="file://$PROJECT_DIR$/public/static/chat/js/app.js" />
     <entry file="file://$PROJECT_DIR$/application/StudentInformationManagementSystem/view/index/use_code.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
@@ -1153,23 +551,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/StudentInformationManagementSystem/view/index/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="15" column="72" lean-forward="true" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/StudentInformationManagementSystem/view/index/sign.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="31" column="31" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="31" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/application/StudentInformationManagementSystem/view/index/register.html" />
     <entry file="file://$PROJECT_DIR$/application/database.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
@@ -1186,14 +568,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/StudentInformationManagementSystem/controller/Index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
+        <state relative-caret-position="760">
           <caret line="22" column="73" selection-start-line="22" selection-start-column="73" selection-end-line="22" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/StudentInformationManagementSystem/js/search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6612">
+          <caret line="174" column="9" selection-start-line="174" selection-start-column="9" selection-end-line="174" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/StudentInformationManagementSystem/js/add.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-61">
+        <state>
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -1202,55 +591,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/StudentInformationManagementSystem/js/delete.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/StudentInformationManagementSystem/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5080">
-          <caret line="123" column="13" selection-start-line="123" selection-start-column="9" selection-end-line="123" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/StudentInformationManagementSystem/js/modify.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-61" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/StudentInformationManagementSystem/js/Modify_Pas.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-61">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/StudentInformationManagementSystem/js/register.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-61">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/StudentInformationManagementSystem/js/search.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="687">
-          <caret line="174" column="9" selection-start-line="174" selection-start-column="9" selection-end-line="174" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/StudentInformationManagementSystem/js/sign.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="76" column="14" lean-forward="true" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
+        <state relative-caret-position="380">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -1259,8 +601,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/StudentInformationManagementSystem/js/useCode.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="166" column="25" lean-forward="true" selection-start-line="166" selection-start-column="25" selection-end-line="166" selection-end-column="25" />
+        <state relative-caret-position="6308">
+          <caret line="166" column="25" selection-start-line="166" selection-start-column="25" selection-end-line="166" selection-end-column="25" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/StudentInformationManagementSystem/view/index/sign.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/StudentInformationManagementSystem/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4674">
+          <caret line="123" column="13" selection-start-line="123" selection-start-column="9" selection-end-line="123" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/StudentInformationManagementSystem/js/modify.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/StudentInformationManagementSystem/js/Modify_Pas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/StudentInformationManagementSystem/js/register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/StudentInformationManagementSystem/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/StudentInformationManagementSystem/js/sign.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="79" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
